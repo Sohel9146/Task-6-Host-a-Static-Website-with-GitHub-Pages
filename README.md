@@ -93,9 +93,9 @@ git push -u origin main
 
 | Screenshot | Description |
 |------------|-------------|
-| ![Repo Root](https://github.com/Sohel9146/Task-6-Host-a-Static-Website-with-GitHub-Pages/blob/main/screenshots/1%20-%20Repo-Root.png?raw=true) | **Repository root view** showing files and structure |
-| ![Pages Settings](https://github.com/Sohel9146/Task-6-Host-a-Static-Website-with-GitHub-Pages/blob/main/screenshots/2%20-%20Pages-Setting.png?raw=true) | **GitHub Pages settings** page configuration |
-| ![Live Website Light Mode](https://github.com/Sohel9146/Task-6-Host-a-Static-Website-with-GitHub-Pages/blob/main/screenshots/3%20-%20Light-Mode.jpeg?raw=true) | **Website in Light Mode** with particles |
+| ![Repo Root](screenshots/1%20-%20Repo-Root.png) | **Repository root view** showing files and structure |
+| ![Pages Settings](screenshots/2%20-%20Pages-Setting.png) | **GitHub Pages settings** page configuration |
+| ![Live Website Light Mode](screenshots/3%20-%20Light-Mode.jpeg) | **Website in Light Mode** with particles |
 | ![Live Website Dark Mode](screenshots/4%20-%20Dark-Mode.jpeg) | **Website in Dark Mode** with particles |
 | ![Responsive View](screenshots/5%20-%20Responsive-View.jpeg) | **Mobile/Tablet responsive layout** |
 
