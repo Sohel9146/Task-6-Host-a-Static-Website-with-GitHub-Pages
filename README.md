@@ -5,6 +5,11 @@
 
 ---
 
+## 🌐 Live Demo
+[Live Website](https://sohel9146.github.io/Task-6-Host-a-Static-Website-with-GitHub-Pages/)
+
+---
+
 ## 📌 Technologies Used
 - **HTML5** — Structure and semantic content
 - **CSS3** — Glassmorphism UI, responsive design, animations
@@ -37,6 +42,12 @@ This project demonstrates how to:
 ## 📂 Project Structure
 ```
 .
+├──screenhots/
+|  ├ 1 - Repo-Root.png
+|  ├ 2 - Pages-Setting.png
+|  ├ 3 - Light-Mode.jpeg
+|  ├ 4 - Dark-Mode.jpeg
+|  ├ 5 - Responsive-View.jpeg
 ├── index.html   # Main HTML file
 ├── styles.css   # External CSS for UI styling
 ├── script.js    # External JavaScript for animations and theme toggle
@@ -49,16 +60,18 @@ This project demonstrates how to:
 
 ### **1. Prepare Local Files**
 - Create a project folder.
-- Add the following files:  
+- Add the following files and folders:  
+  - `screenshots/`  
   - `index.html`  
   - `styles.css`  
   - `script.js`
+  - `README.md`  
 
 ### **2. Initialize Git Repository**
 ```bash
 git init
 git add .
-git commit -m "Task 6: Premium Responsive Static Website"
+git commit -m "Task 6: Static Website"
 ```
 
 ### **3. Create GitHub Repository**
@@ -99,7 +112,7 @@ git push -u origin main
 | ![Live Website Dark Mode](screenshots/4%20-%20Dark-Mode.jpeg) | **Website in Dark Mode** with particles |
 | ![Responsive View](screenshots/5%20-%20Responsive-View.jpeg) | **Mobile/Tablet responsive layout** |
 
-> 📌 Replace `assets/...` paths with your actual screenshot file paths in the repository.
+> 📌 Replace `screenshots/...` paths with your actual screenshot file paths in the repository.
 
 ---
 
@@ -131,5 +144,4 @@ Yes, you can link a custom domain via GitHub Pages settings and DNS configuratio
 
 ---
 
-## 🌐 Live Demo
-[Live Website](https://sohel9146.github.io/Task-6-Host-a-Static-Website-with-GitHub-Pages/)
+
